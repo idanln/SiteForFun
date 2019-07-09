@@ -1,1 +1,10 @@
-theme: jekyll-theme-cayman
+<html>
+  <head>
+    <meta name="google-site-verification"
+             content="<meta name="google-site-verification" content="RxrLSYXbUR7dmOKqpD3Sg1HqxrbkzMub1ur0dgt-vP0" />" />
+    <title>הכותרת שלי</title>
+  </head>
+  <body>
+    theme: jekyll-theme-cayman
+  </body>
+</html>
